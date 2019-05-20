@@ -22,4 +22,4 @@ split-large-forms 0
 keep-alive-timeout 5
 tolerate-pipelining 1
 socket-timeout 30
-max-client-connections 65535
+max-client-connections 512
